@@ -1,8 +1,7 @@
 build/
 
 # GBA
-gba-link-universal-real.gba
-gba-link-universal-real.out.gba
+*.gba
 *.elf
 *.sav
 *.sa2
